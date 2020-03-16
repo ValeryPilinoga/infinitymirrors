@@ -1,7 +1,7 @@
 # Infinity mirrors
 World AR Effect for Facebook AR Hackathon 1 (2020)
 
-![alt tag](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/956/741/datas/gallery.jpg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2ml8kdhj5mg/0.jpg)](https://www.youtube.com/watch?v=2ml8kdhj5mg)
 
 ## What it does
 It creates a mirror with two smaller mirrors inside. User can place it anywhere in the world. He or she can move and scale it according to own preferences.
